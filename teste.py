@@ -1,4 +1,6 @@
-
+# Construa uma classe em Python que, ao ser instanciada, retorna um conjunto 
+# contendo todos os números pares entre dois valores específicos, incluindo 
+# esses valores. A classe recebe esses dois valores durante a inicialização.
 
 class NumerosPares:
     def __init__(self, inicio, fim):
